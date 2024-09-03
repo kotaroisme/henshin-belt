@@ -61,3 +61,4 @@ server
 # rspec failure tracking
 .rspec_status
 rider-kick-*.gem
+henshin-belt-*.gem

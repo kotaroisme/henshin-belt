@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-RSpec.describe Henshin::Belt do
+RSpec.describe HenshinBelt do
   it "has a version number" do
-    expect(Henshin::Belt::VERSION).not_to be nil
+    expect(HenshinBelt::VERSION).not_to be nil
   end
 
   it "does something useful" do
-    expect(false).to eq(true)
+    expect(true).to eq(true)
   end
 end

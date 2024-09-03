@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "henshin_belt"
+require "henshin-belt"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
